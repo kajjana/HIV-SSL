@@ -1,7 +1,7 @@
 # HIV-SSL
-Pre-training Strategy for Antiviral Drug Screening with Low-Data Graph Neural Network: A Case Study in HIV-1 K103N Reverse Transcriptase
+## Pre-training Strategy for Antiviral Drug Screening with Low-Data Graph Neural Network: A Case Study in HIV-1 K103N Reverse Transcriptase
 
-Kajjana Boonpalit,†,§ Hathaichanok Chuntakaruk,‡,Fj,§ Jiramet Kinchagawat,† Peter Wolschann,↓ Supot Hannongbua, ‡,↓↓ Thanyada Rungrotmongkol,∗,‡,Fj and Sarana Nutanong∗,†
+### Kajjana Boonpalit,†,§ Hathaichanok Chuntakaruk,‡,Fj,§ Jiramet Kinchagawat,† Peter Wolschann,↓ Supot Hannongbua, ‡,↓↓ Thanyada Rungrotmongkol,∗,‡,Fj and Sarana Nutanong∗,†
 
 † School of Information Science and Technology, Vidyasirimedhi Institute of Science and Technology (VISTEC), Street, 21210, Rayong, Thailand
 
@@ -16,4 +16,8 @@ Fj Center of Excellence in Structural and Computational Biology, Faculty of Scie
 § These two authors contributed equally to this work
 
 E-mail: thanyada.r@chula.ac.th; snutanon@vistec.ac.th
+
+
+
+This GitHub repository provides the datasets and models accompanying our manuscript. The code accompanying this work is taken from GitHub repository of Hu et. al. (https://github.com/snap-stanford/pretrain-gnns) and Wang et. al. (https://github.com/yuyangw/MolCLR). 
 
