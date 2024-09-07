@@ -19,5 +19,5 @@ E-mail: thanyada.r@chula.ac.th; snutanon@vistec.ac.th
 
 
 
-This GitHub repository provides the datasets and models accompanying our manuscript. The code accompanying this work is taken from GitHub repository of Hu et. al. (https://github.com/snap-stanford/pretrain-gnns) and Wang et. al. (https://github.com/yuyangw/MolCLR). 
+### This GitHub repository provides the datasets and models accompanying our manuscript. The code accompanying this work is taken from GitHub repository of Hu et. al. (https://github.com/snap-stanford/pretrain-gnns) and Wang et. al. (https://github.com/yuyangw/MolCLR). 
 
