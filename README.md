@@ -1,7 +1,7 @@
 # HIV-SSL
 ## Pre-training Strategy for Antiviral Drug Screening with Low-Data Graph Neural Network: A Case Study in HIV-1 K103N Reverse Transcriptase
 
-### Kajjana Boonpalit,†,§ Hathaichanok Chuntakaruk,‡,Fj,§ Jiramet Kinchagawat,† Peter Wolschann,↓ Supot Hannongbua, ‡,↓↓ Thanyada Rungrotmongkol,∗,‡,Fj and Sarana Nutanong∗,†
+### Kajjana Boonpalit,<sup>†,§</sup> Hathaichanok Chuntakaruk,<sup>‡,Fj,§</sup> Jiramet Kinchagawat,<sup>†</sup> Peter Wolschann,<sup>↓</sup> Supot Hannongbua,<sup>‡,↓↓</sup> Thanyada Rungrotmongkol,<sup>∗,‡,Fj</sup> and Sarana Nutanong<sup>∗,†</sup>
 
 † School of Information Science and Technology, Vidyasirimedhi Institute of Science and Technology (VISTEC), Street, 21210, Rayong, Thailand
 
