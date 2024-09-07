@@ -1,0 +1,6 @@
+[submodule "pretrain-gnns"]
+	path = pretrain-gnns
+	url = https://github.com/snap-stanford/pretrain-gnns.git
+[submodule "MolCLR"]
+	path = MolCLR
+	url = https://github.com/yuyangw/MolCLR.git
