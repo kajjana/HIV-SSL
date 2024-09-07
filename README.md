@@ -17,6 +17,9 @@ Fj Center of Excellence in Structural and Computational Biology, Faculty of Scie
 
 E-mail: thanyada.r@chula.ac.th; snutanon@vistec.ac.th
 
+![Git1](https://github.com/user-attachments/assets/cf85bef7-c8fc-47ea-952f-37831b26883f)
+
+![git2](https://github.com/user-attachments/assets/b367a8ec-1733-49bc-a417-9b53322c689b)
 
 
 ### This GitHub repository provides the datasets and models accompanying our manuscript. The code accompanying this work is taken from GitHub repository of Hu et. al. (https://github.com/snap-stanford/pretrain-gnns) and Wang et. al. (https://github.com/yuyangw/MolCLR). 
