@@ -22,3 +22,22 @@ E-mail: thanyada.r@chula.ac.th; snutanon@vistec.ac.th
 
 ### This GitHub repository provides the datasets and models accompanying our manuscript. The code accompanying this work is taken from GitHub repository of Hu et. al. (https://github.com/snap-stanford/pretrain-gnns) and Wang et. al. (https://github.com/yuyangw/MolCLR). 
 
+## Getting Started
+
+### Installation
+
+Set up conda environment and clone the github repo
+
+```
+# install requirements
+$ pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 -f https://download.pytorch.org/whl/torch_stable.html
+$ pip install torch-geometric==1.6.3 torch-sparse==0.6.9 torch-scatter==2.0.6 -f https://pytorch-geometric.com/whl/torch-1.7.0+cu110.html
+$ pip install PyYAML
+$ pip install tqdm
+$ conda install -c conda-forge rdkit=2020.09.1.0
+$ conda install -c conda-forge tensorboard
+
+
+### Dataset
+
+You can download the pre-training data and datasets used in the paper in `./Dataset`. The data for pre-training can be found in `pubchem-250K.txt`. The data for Wildtype RT dataset can be found in `WT_dataset.csv` and K103N variant dataset can be found in `K103N_dataset.csv`.
